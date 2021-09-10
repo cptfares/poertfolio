@@ -49,11 +49,6 @@ class DegreeCard extends Component {
                   </p>
                 );
               })}
-              <a
-                href={degree.website_link}
-                target="_blank"
-                rel="noopener noreferrer"
-              ></a>
             </div>
           </div>
         </Fade>

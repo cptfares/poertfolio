@@ -22,9 +22,9 @@ export default class ProjectsImg extends Component {
             y2="522.9"
             gradientUnits="userSpaceOnUse"
           >
-            <stop offset="0" stop-color="gray" stop-opacity="0.25" />
-            <stop offset="0.54" stop-color="gray" stop-opacity="0.12" />
-            <stop offset="1" stop-color="gray" stop-opacity="0.1" />
+            <stop offset="0" stopColor="gray" stopOpacity="0.25" />
+            <stop offset="0.54" stopColor="gray" stopOpacity="0.12" />
+            <stop offset="1" stopColor="gray" stopOpacity="0.1" />
           </linearGradient>
         </defs>
         <title>mind map</title>
@@ -84,7 +84,7 @@ export default class ProjectsImg extends Component {
           points="491.81 203.17 561.89 294.68 634.08 202.74"
           fill="none"
           stroke={theme.text}
-          stroke-miterlimit="10"
+          strokeMiterlimit="10"
         />
         <rect
           x="508.37"
@@ -109,13 +109,13 @@ export default class ProjectsImg extends Component {
           y2="138.35"
           fill="none"
           stroke={theme.text}
-          stroke-miterlimit="10"
+          strokeMiterlimit="10"
         />
         <polyline
           points="675.22 139.93 634.08 170.7 590.81 139.93"
           fill="none"
           stroke={theme.text}
-          stroke-miterlimit="10"
+          strokeMiterlimit="10"
         />
         <rect
           x="456.61"

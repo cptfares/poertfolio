@@ -28,7 +28,7 @@ export default class DataScienceImg extends Component {
           height="272"
           fill="none"
           stroke={theme.text}
-          stroke-miterlimit="10"
+          strokeMiterlimit="10"
           stroke-width="2"
         />
         <path
@@ -78,7 +78,7 @@ export default class DataScienceImg extends Component {
           height="272"
           fill="none"
           stroke={theme.text}
-          stroke-miterlimit="10"
+          strokeMiterlimit="10"
           stroke-width="2"
         />
         <rect
@@ -231,14 +231,14 @@ export default class DataScienceImg extends Component {
           height="272"
           fill="none"
           stroke={theme.text}
-          stroke-miterlimit="10"
+          strokeMiterlimit="10"
           stroke-width="2"
         />
         <polyline
           points="556 227.5 556 435.5 757 435.5"
           fill="none"
           stroke={theme.text}
-          stroke-miterlimit="10"
+          strokeMiterlimit="10"
           stroke-width="2"
         />
         <rect
