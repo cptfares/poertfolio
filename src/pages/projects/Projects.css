@@ -2,6 +2,9 @@
   width: 100%;
   text-align: center;
 }
+.projects-main {
+  margin-bottom: 20px;
+}
 
 .basic-projects {
   margin-left: 5%;

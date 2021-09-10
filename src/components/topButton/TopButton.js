@@ -7,21 +7,6 @@ export default function TopButton({ theme }) {
     document.documentElement.scrollTop = 0;
   }
 
-  function scrollFunction() {
-    if (
-      document.body.scrollTop > 30 ||
-      document.documentElement.scrollTop > 30
-    ) {
-      document.getElementById("topButton").style.visibility = "visible";
-    } else {
-      document.getElementById("topButton").style.visibility = "hidden";
-    }
-  }
-
-  window.onscroll = function () {
-    scrollFunction();
-  };
-
   const onMouseEnter = (color, bgColor) => {
     /* For the button */
     const topButton = document.getElementById("topButton");
