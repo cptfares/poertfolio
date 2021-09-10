@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "fares anes Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "https://fares-anes.vercel.app/#/",
   },
 };
 
