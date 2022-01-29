@@ -247,7 +247,7 @@ const experience = {
           duration: "may 2021 - july 2021 ",
           location: "gafsa, tunisa",
           description:
-            "I have working with sereval clients worldwide in multiple projects, the biggest one was a platfrom of a bank i did the front end part from zero.",
+            "I have working with sereval clients worldwide in multiple projects, the biggest one was a platfrom of a bank i did the frontend part from zero.",
           color: "#0879bf",
         },
       ],
@@ -256,9 +256,9 @@ const experience = {
       title: "Internships",
       experiences: [
         {
-          title: "Data Science Research Intern",
+          title: "IOT developer Intern",
           company: "sss",
-          company_url: "http://www.sss.com.tn/",
+          company_url: ".",
           logo_path: "delhivery_logo1.png",
           duration: "jan 2021 - mar 2021",
           location: "gafsa, tunisa",
@@ -273,13 +273,13 @@ const experience = {
       experiences: [
         {
           title: "mentor",
-          company: "ssociation Jeunes Science de Tunisie",
+          company: "asociation Jeunes Science de Tunisie",
           company_url: "",
           logo_path: "microsoft_logo1.png",
           duration: "feb 2021 - july 2021",
           location: "gafsa, tunisa",
           description:
-            " i have done multiple mentorships with a groups of high school students desgined to help them discover the web development and IOT file.",
+            " i have done multiple mentorships with a groups of high school students desgined to help them discover the web development and IOT filed.",
           color: "#D83B01",
         },
         {
@@ -319,13 +319,13 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "animated_ashutosh.png",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android and Opensource Development.",
   },
   blogSection: {
     title: "Blogs",
     subtitle:
       "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-    link: "https://ashutoshhathidara.wordpress.com",
+    link: "",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
