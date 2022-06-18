@@ -290,7 +290,7 @@ const experience = {
           duration: "Dec 2020 - May 2020",
           location: "Kurnool, Andhra Pradesh",
           description:
-            "I'm the president and founder of evolve club Gafsa which is a high school that provides workshops and bootcamps to help youth improve their technical skills. ",
+            "I'm the president and founder of evolve club Gafsa which is a high school that provides workshops and bootcamps to help youth improve their skills. ",
           color: "#000000",
         },
       ],
