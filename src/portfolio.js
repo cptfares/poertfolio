@@ -190,7 +190,7 @@ const degrees = {
       alt_name: "houcien bouzien",
       duration: "2021 - Present",
       descriptions: [
-        "⚡ I have studied basic computer science subjects like DS, Algorithms, DBMS etc.",
+        "⚡ I have studied basic computer science subjects like DS, Algorithms, DBMS etc...",
         "⚡ Apart from this, I have done courses on math , Physics , English , French etc...",
         "⚡ somthing about to rise... ",
       ],
@@ -279,7 +279,7 @@ const experience = {
           duration: "feb 2021 - july 2021",
           location: "gafsa, tunisa",
           description:
-            " i have done multiple mentorships with a groups of high school students desgined to help them discover the web development and IOT filed.",
+            " i have done multiple mentorships with a groups of high school students desgined to help them discover the web development and the IOT.",
           color: "#D83B01",
         },
         {
@@ -290,7 +290,7 @@ const experience = {
           duration: "Dec 2020 - May 2020",
           location: "Kurnool, Andhra Pradesh",
           description:
-            "I'm the president and founder of evolve club gafsa which is a high school that provided workshop and bootcamp to share with youth the latest technologies in many fileds  ",
+            "I'm the president and founder of evolve club Gafsa which is a high school that provides workshops and bootcamps to help youth improve their technical skills. ",
           color: "#000000",
         },
       ],
